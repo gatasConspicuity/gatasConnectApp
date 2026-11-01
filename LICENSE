@@ -1,0 +1,53 @@
+GATAS Connect — Proprietary License
+
+Copyright (c) 2026 Ries van Twisk and Jens Rodenhausen. All rights reserved.
+
+1. Scope
+
+These terms apply to original GATAS Connect project material controlled by
+the named rights holders. Third-party components remain under their own
+licenses, which take precedence for those components. See THIRD_PARTY_NOTICES.md
+and the texts in licenses/.
+Their copyright notices, warranty disclaimers and liability limitations are
+retained. These project terms do not waive obligations owed to third-party
+licensors.
+
+2. Source code
+
+The project source code is proprietary. Access is limited to collaboration
+authorized by the maintainers. No permission to publish, redistribute, sell,
+sublicense, or use the original project source to create another product is
+granted without the rights holders' written permission.
+
+3. Official applications
+
+Official GATAS Connect applications are currently made available free of charge.
+The rights holders reserve the right to charge for future downloads, versions,
+updates or additional features, or to discontinue free distribution. Continued
+free availability is not guaranteed. Such changes do not impose retroactive
+charges or revoke usage rights already granted for a version previously
+obtained free of charge.
+
+For App Store distributions, Apple's Standard End User License Agreement
+governs end-user use:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+For other official builds distributed free of charge under this license, the
+rights holders grant a non-exclusive, non-transferable right to install and use
+that version of the application free of charge for
+personal, professional or internal organizational purposes. This does not grant
+permission to resell, sublicense, redistribute, modify or create derivative products
+from the original project material without written permission.
+
+4. Reserved and existing rights
+
+The restrictions above do not limit rights granted by the third-party
+licenses or rights that cannot be restricted under applicable law. They do
+not revoke licenses already granted for earlier versions of project material.
+No trademark permission is granted by this license.
+
+5. Warranty
+
+To the extent permitted by applicable law, the software is provided "as is",
+without warranties of any kind. Mandatory consumer rights and liability that
+cannot lawfully be excluded remain unaffected.

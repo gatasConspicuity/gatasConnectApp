@@ -1,0 +1,426 @@
+{
+  "schemaVersion": 1,
+  "components": [
+    {
+      "id": "cobs",
+      "title": "COBS",
+      "category": "Code and icons",
+      "summary": "Byte framing · MIT",
+      "notice": "Copyright (c) 2022 Fabian Dittmann.\nAdapted from cobs-kotlin as ByteArray extension functions.",
+      "licenseIds": [
+        "mit"
+      ],
+      "sources": [
+        "https://github.com/FabD86/cobs-kotlin/blob/50e0b7c2e3441cfb0e023b44a0d61585ccdd66aa/LICENSE"
+      ],
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "id": "icons",
+      "title": "Compose Icons and Line Awesome",
+      "category": "Code and icons",
+      "summary": "Interface icons · MIT",
+      "notice": "Copyright (c) 2021 DevSrSouza.\nCopyright (c) Icons8.\nLine Awesome is used under MIT. Brand icons remain trademarks of their respective owners.",
+      "licenseIds": [
+        "mit"
+      ],
+      "sources": [
+        "https://github.com/DevSrSouza/compose-icons",
+        "https://github.com/icons8/line-awesome/tree/a60f11367584e7df157277b5ab9d1654ec91ae24"
+      ],
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "id": "slf4j",
+      "title": "SLF4J",
+      "category": "Code and icons",
+      "summary": "Logging API · MIT",
+      "notice": "",
+      "licenseIds": [
+        "slf4j-mit"
+      ],
+      "sources": [
+        "https://github.com/qos-ch/slf4j/blob/v_2.0.17/LICENSE.txt"
+      ],
+      "platforms": [
+        "android"
+      ]
+    },
+    {
+      "id": "frameworks",
+      "title": "Frameworks and networking",
+      "category": "Framework and runtime",
+      "summary": "Kotlin, Compose, AndroidX, Ktor and supporting libraries · Apache 2.0",
+      "notice": "Kotlin, Compose Multiplatform, AndroidX, Material Components, Ktor, Kable, Tuulbox, MOKO Permissions, Koin, Kermit, Stately, Okio, OkHttp, kotlinx libraries, Config, Jansi, JetBrains annotations, JSpecify, Guava ListenableFuture and Error Prone annotations.\n\nCopyright 2000-2016 JetBrains s.r.o.\nCopyright 2000-2020 JetBrains s.r.o. and Kotlin Programming Language contributors.\nCopyright 2000-2023 JetBrains s.r.o.\nCopyright 2017-2023 Arnaud GIULIANI\nCopyright 2017-2023 JetBrains s.r.o and respective authors and developers\nCopyright 2020-2021 JetBrains s.r.o. and and respective authors and developers.\nCopyright 2021 Touchlab\n\n   =========================================================================\n   ==  NOTICE file corresponding to the section 4 d of                    ==\n   ==  the Apache License, Version 2.0,                                   ==\n   ==  in this case for the kotlinx-io library.                            ==\n   =========================================================================\n\n   kotlinx-io library.\n   Copyright 2017-2023 JetBrains s.r.o and respective authors and developers",
+      "licenseIds": [
+        "apache-2"
+      ],
+      "sources": [
+        "https://github.com/InsertKoinIO/koin/blob/4.1.1/LICENSE",
+        "https://github.com/JetBrains/compose-multiplatform-core/blob/v1.11.0-rc01/LICENSE.txt",
+        "https://github.com/JetBrains/compose-multiplatform/blob/v1.11.0-rc01/LICENSE.txt",
+        "https://github.com/JetBrains/java-annotations/blob/23.0.0/LICENSE.txt",
+        "https://github.com/JuulLabs/kable/blob/0.43.0/LICENSE.txt",
+        "https://github.com/JuulLabs/tuulbox/blob/8.1.0/LICENSE.txt",
+        "https://github.com/Kotlin/kotlinx-atomicfu/blob/0.32.1/LICENSE.txt",
+        "https://github.com/Kotlin/kotlinx-datetime/blob/v0.7.1/LICENSE.txt",
+        "https://github.com/Kotlin/kotlinx-io/blob/0.9.0/LICENSE",
+        "https://github.com/Kotlin/kotlinx-io/blob/0.9.0/NOTICE",
+        "https://github.com/Kotlin/kotlinx.coroutines/blob/1.10.2/LICENSE.txt",
+        "https://github.com/Kotlin/kotlinx.serialization/blob/v1.11.0/LICENSE.txt",
+        "https://github.com/Kotlin/kotlinx.serialization/blob/v1.9.0/LICENSE.txt",
+        "https://github.com/fusesource/jansi/blob/jansi-2.4.2/license.txt",
+        "https://github.com/jspecify/jspecify/blob/v1.0.0/LICENSE",
+        "https://github.com/ktorio/ktor/blob/3.2.3/LICENSE",
+        "https://github.com/ktorio/ktor/blob/3.3.3/LICENSE",
+        "https://github.com/lightbend/config/blob/v1.4.3/LICENSE-2.0.txt",
+        "https://github.com/lysine-dev/okhttp/blob/parent-5.2.1/LICENSE.txt",
+        "https://github.com/lysine-dev/okio/blob/parent-3.17.0/LICENSE.txt",
+        "https://github.com/material-components/material-components-android/blob/1.14.0/LICENSE",
+        "https://github.com/touchlab/Kermit/blob/2.0.8/LICENSE.txt",
+        "https://github.com/touchlab/Stately/blob/2.1.0/LICENSE.txt"
+      ],
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "id": "skia",
+      "title": "Skia and Skiko",
+      "category": "Graphics and image formats",
+      "summary": "Interface rendering · BSD and Apache 2.0",
+      "notice": "This project contains code adapted from \"The Android Open Source Project\" licensed under the Apache License, Version 2.0 (the \"License\"):\n\nhttps://android.googlesource.com/platform/frameworks/base",
+      "licenseIds": [
+        "apache-2",
+        "skia-bsd"
+      ],
+      "sources": [
+        "https://github.com/JetBrains/skiko/tree/v0.144.6",
+        "https://github.com/JetBrains/skia/tree/22f58c9fd43d55bde818821c04b48fda5d7ec939"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "dng",
+      "title": "Adobe DNG SDK",
+      "category": "Graphics and image formats",
+      "summary": "RAW image support · Adobe DNG terms",
+      "notice": "",
+      "licenseIds": [
+        "adobe-dng",
+        "adobe-dng-patent"
+      ],
+      "sources": [
+        "https://android.googlesource.com/platform/external/dng_sdk/+/dbe0a676450d9b8c71bf00688bb306409b779e90"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "expat",
+      "title": "Expat",
+      "category": "Graphics and image formats",
+      "summary": "XML parsing · MIT",
+      "notice": "",
+      "licenseIds": [
+        "expat-mit"
+      ],
+      "sources": [
+        "https://chromium.googlesource.com/external/github.com/libexpat/libexpat/+/8e49998f003d693213b538ef765814c7d21abada"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "harfbuzz",
+      "title": "HarfBuzz",
+      "category": "Graphics and image formats",
+      "summary": "Text shaping · MIT-style terms",
+      "notice": "",
+      "licenseIds": [
+        "harfbuzz-mit"
+      ],
+      "sources": [
+        "https://chromium.googlesource.com/external/github.com/harfbuzz/harfbuzz/+/08b52ae2e44931eef163dbad71697f911fadc323"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "icu",
+      "title": "ICU",
+      "category": "Graphics and image formats",
+      "summary": "Unicode and text processing · ICU and Unicode terms",
+      "notice": "",
+      "licenseIds": [
+        "icu"
+      ],
+      "sources": [
+        "https://chromium.googlesource.com/chromium/deps/icu/+/364118a1d9da24bb5b770ac3d762ac144d6da5a4"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "png",
+      "title": "libpng",
+      "category": "Graphics and image formats",
+      "summary": "PNG images · PNG Reference Library License",
+      "notice": "",
+      "licenseIds": [
+        "png"
+      ],
+      "sources": [
+        "https://skia.googlesource.com/third_party/libpng/+/49363adcfaf098748d7a4c8c624ad8c45a8c3a86"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "jpeg",
+      "title": "libjpeg-turbo and IJG",
+      "category": "Graphics and image formats",
+      "summary": "JPEG images · IJG and BSD terms",
+      "notice": "This software is based in part on the work of the Independent JPEG Group.",
+      "licenseIds": [
+        "jpeg-bsd",
+        "ijg"
+      ],
+      "sources": [
+        "https://chromium.googlesource.com/chromium/deps/libjpeg_turbo/+/e14cbfaa85529d47f9f55b0f104a579c1061f9ad"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "webp",
+      "title": "libwebp",
+      "category": "Graphics and image formats",
+      "summary": "WebP images · BSD and patent grant",
+      "notice": "",
+      "licenseIds": [
+        "webp",
+        "webp-patents"
+      ],
+      "sources": [
+        "https://chromium.googlesource.com/webm/libwebp/+/845d5476a866141ba35ac133f856fa62f0b7445f"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "piex",
+      "title": "PIEX",
+      "category": "Graphics and image formats",
+      "summary": "Image metadata · Apache 2.0",
+      "notice": "",
+      "licenseIds": [
+        "apache-2"
+      ],
+      "sources": [
+        "https://android.googlesource.com/platform/external/piex/+/bb217acdca1cc0c16b704669dd6f91a1b509c406"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "zlib",
+      "title": "zlib",
+      "category": "Graphics and image formats",
+      "summary": "Compression · zlib and Chromium BSD terms",
+      "notice": "Copyright (C) 1995-2003, 2010 Mark Adler\nCopyright (C) 1995-2003, 2010, 2014, 2016 Jean-loup Gailly, Mark Adler\nCopyright (C) 1995-2005, 2010 Mark Adler\nCopyright (C) 1995-2005, 2014, 2016 Jean-loup Gailly, Mark Adler\nCopyright (C) 1995-2011, 2016 Mark Adler\nCopyright (C) 1995-2016 Jean-loup Gailly, Mark Adler\nCopyright (C) 1995-2017 Jean-loup Gailly\nCopyright (C) 1995-2017 Mark Adler\nCopyright (C) 1995-2018 Jean-loup Gailly\nCopyright (C) 1995-2019 Mark Adler\nCopyright (C) 1995-2021 Jean-loup Gailly\nCopyright (C) 1995-2022 Jean-loup Gailly, Mark Adler\nCopyright (C) 1995-2022 Mark Adler\nCopyright (C) 1995-2023 Jean-loup Gailly and Mark Adler\nCopyright (C) 1995-2023 Mark Adler\nCopyright (C) 2004, 2010 Mark Adler\nCopyright (C) 2004-2017 Mark Adler\nCopyright (C) 2004-2019 Mark Adler\nCopyright (C) 2013 Intel Corporation. All rights reserved.\nCopyright (C) 2017 ARM, Inc.\nCopyright 2017 The Chromium Authors\nCopyright 2018 The Chromium Authors\nCopyright 2019 The Chromium Authors\nCopyright 2022 The Chromium Authors\nCopyright 2023 The Chromium Authors",
+      "licenseIds": [
+        "zlib",
+        "chromium-bsd"
+      ],
+      "sources": [
+        "https://chromium.googlesource.com/chromium/src/third_party/zlib/+/646b7f569718921d7d4b5b8e22572ff6c76f2596"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "wuffs",
+      "title": "Wuffs and Skia adapters",
+      "category": "Graphics and image formats",
+      "summary": "Image decoding · Apache 2.0 and BSD",
+      "notice": "",
+      "licenseIds": [
+        "apache-2",
+        "wuffs-bsd"
+      ],
+      "sources": [
+        "https://skia.googlesource.com/external/github.com/google/wuffs-mirror-release-c/+/e3f919ccfe3ef542cfc983a82146070258fb57f8"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "id": "runtime",
+      "title": "Kotlin standard library",
+      "category": "Framework and runtime",
+      "summary": "Standard library additions · Apache, BSD and Boost terms",
+      "notice": "Copyright 2010-2024 JetBrains s.r.o. and Kotlin Programming Language contributors.\n\nGuava-derived unsigned arithmetic: Copyright 2011 The Guava Authors.\nGWT-derived collections: Copyright 2007-08 Google Inc.\nBoost-derived math functions: Copyright Eric Ford & Hubert Holin 2001.",
+      "licenseIds": [
+        "apache-2",
+        "boost",
+        "threeten"
+      ],
+      "sources": [
+        "https://github.com/JetBrains/kotlin/tree/v2.3.21/license",
+        "https://github.com/JetBrains/kotlin/tree/v2.3.21/kotlin-native/runtime/src"
+      ],
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "id": "native-runtime",
+      "title": "Kotlin/Native runtime",
+      "category": "Framework and runtime",
+      "summary": "Native runtime additions · Apache, MIT, BSD and Boost terms",
+      "notice": "Copyright 2010-2024 JetBrains s.r.o. and Kotlin Programming Language contributors.\n\nBoost-derived hash functions: Copyright 2005-2014 Daniel James.\nUTF8-CPP: Copyright 2006 Nemanja Trifunovic.\n\nCopyright (C) 2012-2018 Free Software Foundation, Inc.\nCopyright (C) 2012-2021 Free Software Foundation, Inc.\nCopyright (C) 2013-2021 Free Software Foundation, Inc.\nCopyright (C) 2020-2021 Free Software Foundation, Inc.",
+      "licenseIds": [
+        "apache-2",
+        "boost",
+        "mit",
+        "libbacktrace",
+        "bounded-queue"
+      ],
+      "sources": [
+        "https://github.com/JetBrains/kotlin/tree/v2.3.21/license",
+        "https://github.com/JetBrains/kotlin/tree/v2.3.21/kotlin-native/runtime/src"
+      ],
+      "platforms": [
+        "ios"
+      ]
+    }
+  ],
+  "licenses": [
+    {
+      "id": "apache-2",
+      "title": "Apache License 2.0",
+      "file": "texts/Apache-2.0.txt"
+    },
+    {
+      "id": "mit",
+      "title": "MIT License",
+      "file": "texts/MIT.txt"
+    },
+    {
+      "id": "slf4j-mit",
+      "title": "SLF4J MIT License",
+      "file": "texts/SLF4J-MIT.txt"
+    },
+    {
+      "id": "skia-bsd",
+      "title": "Skia BSD License",
+      "file": "texts/Skia-BSD.txt"
+    },
+    {
+      "id": "adobe-dng",
+      "title": "Adobe DNG SDK License Agreement",
+      "file": "texts/Adobe-DNG-SDK.txt"
+    },
+    {
+      "id": "adobe-dng-patent",
+      "title": "DNG Specification Patent License",
+      "file": "texts/Adobe-DNG-Patent.txt"
+    },
+    {
+      "id": "expat-mit",
+      "title": "Expat MIT License",
+      "file": "texts/Expat-MIT.txt"
+    },
+    {
+      "id": "harfbuzz-mit",
+      "title": "HarfBuzz License",
+      "file": "texts/HarfBuzz.txt"
+    },
+    {
+      "id": "icu",
+      "title": "ICU and Included Third-Party Licenses",
+      "file": "texts/ICU.txt"
+    },
+    {
+      "id": "png",
+      "title": "PNG Reference Library License",
+      "file": "texts/PNG.txt"
+    },
+    {
+      "id": "jpeg-bsd",
+      "title": "libjpeg-turbo BSD License",
+      "file": "texts/libjpeg-turbo-BSD.txt"
+    },
+    {
+      "id": "ijg",
+      "title": "Independent JPEG Group Terms",
+      "file": "texts/IJG.txt"
+    },
+    {
+      "id": "webp",
+      "title": "WebP BSD License",
+      "file": "texts/WebP-BSD.txt"
+    },
+    {
+      "id": "webp-patents",
+      "title": "WebP Patent Grant",
+      "file": "texts/WebP-Patent.txt"
+    },
+    {
+      "id": "zlib",
+      "title": "zlib License",
+      "file": "texts/zlib.txt"
+    },
+    {
+      "id": "chromium-bsd",
+      "title": "Chromium BSD License",
+      "file": "texts/Chromium-BSD.txt"
+    },
+    {
+      "id": "wuffs-bsd",
+      "title": "Skia Wuffs Adapter License",
+      "file": "texts/Wuffs-Skia-BSD.txt"
+    },
+    {
+      "id": "boost",
+      "title": "Boost Software License 1.0",
+      "file": "texts/Boost-1.0.txt"
+    },
+    {
+      "id": "threeten",
+      "title": "ThreeTenBP BSD License",
+      "file": "texts/ThreeTenBP-BSD.txt"
+    },
+    {
+      "id": "libbacktrace",
+      "title": "libbacktrace BSD License",
+      "file": "texts/libbacktrace-BSD.txt"
+    },
+    {
+      "id": "bounded-queue",
+      "title": "Bounded Queue BSD License",
+      "file": "texts/Bounded-Queue-BSD.txt"
+    }
+  ]
+}
