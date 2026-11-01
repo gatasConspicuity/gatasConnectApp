@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and help
+    url: https://github.com/gatasConspicuity/gatasConnectApp/discussions/categories/q-a
+    about: Ask the community for help before reporting a bug.
+  - name: Ideas and improvements
+    url: https://github.com/gatasConspicuity/gatasConnectApp/discussions/categories/ideas
+    about: Discuss a proposed feature or improvement.
+  - name: Discord and TestFlight invitations
+    url: https://discord.com/invite/J6mXTcWndS
+    about: Join the community or request an invitation to the TestFlight beta.

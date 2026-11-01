@@ -1,0 +1,620 @@
+{
+  "schemaVersion": 1,
+  "product": "GATAS Connect",
+  "repository": "https://github.com/gatasConspicuity/gatasConnectApp",
+  "pagesUrl": "https://gatasConspicuity.github.io/gatasConnectApp/",
+  "description": "Native simulator and emulator captures of the current app, using synthetic device, traffic, pressure and weather data.",
+  "platforms": [
+    {
+      "id": "iphone",
+      "label": "iPhone",
+      "kind": "phone",
+      "device": "iPhone 18 Pro simulator",
+      "screenshots": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "file": "images/iphone/overview.png",
+          "captured": "2026-10-29",
+          "width": 1206,
+          "height": 2622,
+          "sha256": "f0ddce29fb40141dfd9579ecf18b0174b497198a82f405c5835854c9ab50fcff",
+          "featured": true
+        },
+        {
+          "id": "radar",
+          "title": "Radar",
+          "file": "images/iphone/radar.png",
+          "captured": "2026-10-29",
+          "width": 1206,
+          "height": 2622,
+          "sha256": "9dd502184196b279f93d7433659727b11ba4a8259749c23dcb7155985225eec5",
+          "featured": false
+        },
+        {
+          "id": "radar-info",
+          "title": "Radar info",
+          "file": "images/iphone/radar-info.png",
+          "captured": "2026-10-29",
+          "width": 1206,
+          "height": 2622,
+          "sha256": "ccc41e49bd98096b436fd6889227973cb7f9bd6292a00723d92e3efba62b491d",
+          "featured": false
+        },
+        {
+          "id": "metar",
+          "title": "METAR",
+          "file": "images/iphone/metar.png",
+          "captured": "2026-10-29",
+          "width": 1206,
+          "height": 2622,
+          "sha256": "7b206d23cb742548e67ff643f22b28087fada71e0d7c8cbe8f01f97bf0479389",
+          "featured": false
+        },
+        {
+          "id": "settings",
+          "title": "Settings",
+          "file": "images/iphone/settings.png",
+          "captured": "2026-10-29",
+          "width": 1206,
+          "height": 2622,
+          "sha256": "ddddc387959861b1c52912be468ed8fcc4cd3f22eb6edb5811b9a5e811e2c8ea",
+          "featured": false
+        },
+        {
+          "id": "aircraft",
+          "title": "Aircraft",
+          "file": "images/iphone/aircraft.png",
+          "captured": "2026-10-29",
+          "width": 1206,
+          "height": 2622,
+          "sha256": "c7b4b9dd8a2b49efc7991fe2aae6a44546aa200aa36e73c3c3b372c7b591019c",
+          "featured": false
+        },
+        {
+          "id": "wifi",
+          "title": "Wi-Fi mode",
+          "file": "images/iphone/wifi.png",
+          "featured": false,
+          "width": 1206,
+          "height": 2622,
+          "sha256": "f604a4ddb81e9714d7c06393321c2f56b80ff38e5dd5b2af8b22e7c045ac17ee",
+          "captured": "2026-10-29"
+        },
+        {
+          "id": "actions",
+          "title": "Device Actions",
+          "file": "images/iphone/actions.png",
+          "featured": false,
+          "width": 1206,
+          "height": 2622,
+          "sha256": "2c0f0e4e33198707defc73fd0c9d586eb9887cee90c546464875ab975f9638f3",
+          "captured": "2026-10-29"
+        },
+        {
+          "id": "details",
+          "title": "Connection info",
+          "file": "images/iphone/details.png",
+          "captured": "2026-10-29",
+          "width": 1206,
+          "height": 2622,
+          "sha256": "9d7e0349e6a54e3ec888d5a0a6ba4437931c3bf2ed25a5957b1f6f5b7c287bd3",
+          "featured": false
+        },
+        {
+          "id": "about",
+          "title": "About",
+          "file": "images/iphone/about.png",
+          "captured": "2026-11-01",
+          "width": 1206,
+          "height": 2622,
+          "sha256": "e82653d4c33d4054b578a5ecf6d9ccf3f13b857c770955e73bc86bce742776ef",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "ipad",
+      "label": "iPad mini",
+      "kind": "tablet",
+      "device": "iPad mini (A17 Pro) simulator",
+      "screenshots": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "file": "images/ipad/overview.png",
+          "captured": "2026-10-29",
+          "width": 1488,
+          "height": 2266,
+          "sha256": "0526cb42653560d778cdedc9df518b2ff9941a70e713d0ee9b590d301ba27fd8",
+          "featured": false
+        },
+        {
+          "id": "radar",
+          "title": "Radar",
+          "file": "images/ipad/radar.png",
+          "captured": "2026-10-29",
+          "width": 1488,
+          "height": 2266,
+          "sha256": "d730823f8e16f96bd88f6b17e1906a038af1d7417bebc7254dee568cabd7547b",
+          "featured": false
+        },
+        {
+          "id": "radar-info",
+          "title": "Radar info",
+          "file": "images/ipad/radar-info.png",
+          "captured": "2026-10-29",
+          "width": 1488,
+          "height": 2266,
+          "sha256": "c1618fb7a060107d1d700cd7828cdac7df6a37d781cd73b33a90de5d10f634ae",
+          "featured": false
+        },
+        {
+          "id": "metar",
+          "title": "METAR",
+          "file": "images/ipad/metar.png",
+          "captured": "2026-10-29",
+          "width": 1488,
+          "height": 2266,
+          "sha256": "9a90b416fb7eeeb4fc0d8a00e5f05f5a2d9ad149b22b0bb24ec4ab18c3cd5583",
+          "featured": false
+        },
+        {
+          "id": "settings",
+          "title": "Settings",
+          "file": "images/ipad/settings.png",
+          "captured": "2026-10-29",
+          "width": 1488,
+          "height": 2266,
+          "sha256": "d165367f5f2f2427cdff3ff6ad70508c181110dcfc4848732af4fdf7a85e2ed9",
+          "featured": false
+        },
+        {
+          "id": "aircraft",
+          "title": "Aircraft",
+          "file": "images/ipad/aircraft.png",
+          "captured": "2026-10-29",
+          "width": 1488,
+          "height": 2266,
+          "sha256": "9ac0cd1585b8e0755a8753f6617eb747d74dddb2cfc7790a93ecfb61073ec4a4",
+          "featured": false
+        },
+        {
+          "id": "wifi",
+          "title": "Wi-Fi mode",
+          "file": "images/ipad/wifi.png",
+          "featured": false,
+          "width": 1488,
+          "height": 2266,
+          "sha256": "557ed5eb3cc0af188a933970f92fe27c0f95d6de5637ca4797ac44abd7699e3e",
+          "captured": "2026-10-29"
+        },
+        {
+          "id": "actions",
+          "title": "Device Actions",
+          "file": "images/ipad/actions.png",
+          "featured": false,
+          "width": 1488,
+          "height": 2266,
+          "sha256": "c30e89dba4209ff0fd45096c02b69d3f24d1b7d0bd3aa6207bac288173fd22a2",
+          "captured": "2026-10-29"
+        },
+        {
+          "id": "details",
+          "title": "Connection info",
+          "file": "images/ipad/details.png",
+          "captured": "2026-10-29",
+          "width": 1488,
+          "height": 2266,
+          "sha256": "31a0a425f62c289250afac50310052751b5477d5f9793ded757593c0c2135a0c",
+          "featured": false
+        },
+        {
+          "id": "about",
+          "title": "About",
+          "file": "images/ipad/about.png",
+          "captured": "2026-11-01",
+          "width": 1488,
+          "height": 2266,
+          "sha256": "8cf363f40e35da7e6307f032185916b97f86284cbf43cec6273edc391f47add3",
+          "featured": false
+        },
+        {
+          "id": "radar-landscape",
+          "title": "Radar landscape",
+          "file": "images/ipad/radar-landscape.png",
+          "captured": "2026-10-29",
+          "width": 2266,
+          "height": 1488,
+          "sha256": "7cc9c56b2d74f4db3877a707cf7871bb5be6baed04803a130269aaf1b166687d",
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": "ipad-13",
+      "label": "iPad 13-inch (App Store)",
+      "kind": "tablet",
+      "device": "iPad Pro 13-inch (M5) simulator",
+      "sourceCommit": "a593e771587cfec40fed2f628ea4e56841bebf05",
+      "sourceBranch": "develop",
+      "operatingSystem": "iOS 27.0",
+      "screenshots": [
+        {
+          "id": "radar",
+          "title": "Radar",
+          "file": "images/ipad-13/radar.jpg",
+          "captured": "2026-10-31",
+          "width": 2064,
+          "height": 2752,
+          "sha256": "3783738db19d46472eb54381e2c3189e9155b3fe8dc4d54fb57cf3918f7503f0",
+          "featured": false
+        },
+        {
+          "id": "overview",
+          "title": "Overview",
+          "file": "images/ipad-13/overview.jpg",
+          "captured": "2026-10-31",
+          "width": 2064,
+          "height": 2752,
+          "sha256": "056aff6b6726429d78f1591d57d5d8471da449645e656e5682e6d3bd558027f7",
+          "featured": false
+        },
+        {
+          "id": "metar",
+          "title": "METAR",
+          "file": "images/ipad-13/metar.jpg",
+          "captured": "2026-10-31",
+          "width": 2064,
+          "height": 2752,
+          "sha256": "9db178ca3cbfd053235e73255e1db382454ca43e1f32150a194f646d0ae1827f",
+          "featured": false
+        },
+        {
+          "id": "aircraft",
+          "title": "Aircraft",
+          "file": "images/ipad-13/aircraft.jpg",
+          "captured": "2026-10-31",
+          "width": 2064,
+          "height": 2752,
+          "sha256": "ef9c41d6518d4e20653ec8217a68f788b53168221c851bbc1b4d5347184fdc8d",
+          "featured": false
+        },
+        {
+          "id": "wifi",
+          "title": "Wi-Fi mode",
+          "file": "images/ipad-13/wifi.jpg",
+          "captured": "2026-10-31",
+          "width": 2064,
+          "height": 2752,
+          "sha256": "362de551ecf5b19978e6d08497cb656275a5f153c4ead7cef2d23626142fb6a5",
+          "featured": false
+        },
+        {
+          "id": "actions",
+          "title": "Device Actions",
+          "file": "images/ipad-13/actions.jpg",
+          "captured": "2026-10-31",
+          "width": 2064,
+          "height": 2752,
+          "sha256": "4bec661590ed172ae82202cce6bb3c5ee8491cbdac3c1fe2048b62501e571877",
+          "featured": false
+        },
+        {
+          "id": "details",
+          "title": "Connection info",
+          "file": "images/ipad-13/details.jpg",
+          "captured": "2026-10-31",
+          "width": 2064,
+          "height": 2752,
+          "sha256": "4cd585f3309099f11a013417ed017b0343163cccec73c2080f409efc1e3b802e",
+          "featured": false
+        },
+        {
+          "id": "settings",
+          "title": "Settings",
+          "file": "images/ipad-13/settings.jpg",
+          "captured": "2026-10-31",
+          "width": 2064,
+          "height": 2752,
+          "sha256": "fd2430291a8199dbbc79fa4f9df6c25ed094d5c232813c73215448993ac5aafb",
+          "featured": false
+        },
+        {
+          "id": "radar-info",
+          "title": "Radar info",
+          "file": "images/ipad-13/radar-info.jpg",
+          "captured": "2026-10-31",
+          "width": 2064,
+          "height": 2752,
+          "sha256": "ed5ad871c9722c01e11fb9b7cb235ae434ecc9563a0c1ee606cc0239d2f8d448",
+          "featured": false
+        },
+        {
+          "id": "radar-landscape",
+          "title": "Radar landscape",
+          "file": "images/ipad-13/radar-landscape.jpg",
+          "captured": "2026-10-31",
+          "width": 2752,
+          "height": 2064,
+          "sha256": "672b1f6d60fa7893ee01efbf0d8540069cd262e3f2196cff52917b40c46e16f9",
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": "android-phone",
+      "label": "Android phone",
+      "kind": "phone",
+      "device": "Android API 37 phone emulator",
+      "screenshots": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "file": "images/android-phone/overview.png",
+          "captured": "2026-10-29",
+          "width": 1080,
+          "height": 2400,
+          "sha256": "6adac2dabe3638f3b119768d6f1cd3bed516c38a8ceacb7d56f2a85a8940c0a1",
+          "featured": true
+        },
+        {
+          "id": "radar",
+          "title": "Radar",
+          "file": "images/android-phone/radar.png",
+          "captured": "2026-10-29",
+          "width": 1080,
+          "height": 2400,
+          "sha256": "0addf95a77534c349ec9cb7a83f68691afc100aadd30efe2e304759c49bfffce",
+          "featured": false
+        },
+        {
+          "id": "radar-info",
+          "title": "Radar info",
+          "file": "images/android-phone/radar-info.png",
+          "captured": "2026-10-29",
+          "width": 1080,
+          "height": 2400,
+          "sha256": "e0af05b13b382aae127e8cff3cecd6275e558f3085efa8dadf48d54a783c7f39",
+          "featured": false
+        },
+        {
+          "id": "metar",
+          "title": "METAR",
+          "file": "images/android-phone/metar.png",
+          "captured": "2026-10-29",
+          "width": 1080,
+          "height": 2400,
+          "sha256": "9eddf3651be931ef6d1e9c6c2a830dc71fab62dd95287a8cd7067e160f9397f2",
+          "featured": false
+        },
+        {
+          "id": "settings",
+          "title": "Settings",
+          "file": "images/android-phone/settings.png",
+          "captured": "2026-10-29",
+          "width": 1080,
+          "height": 2400,
+          "sha256": "b4abe4315dd85d551a9637ef01d451797296a180e43f6ee7ff33f0b0893409d6",
+          "featured": false
+        },
+        {
+          "id": "aircraft",
+          "title": "Aircraft",
+          "file": "images/android-phone/aircraft.png",
+          "captured": "2026-10-29",
+          "width": 1080,
+          "height": 2400,
+          "sha256": "ce7e12009777a0b007ca3c11ea62f1318d687c011f307d563c676ee3aa4edb81",
+          "featured": false
+        },
+        {
+          "id": "wifi",
+          "title": "Wi-Fi mode",
+          "file": "images/android-phone/wifi.png",
+          "featured": false,
+          "width": 1080,
+          "height": 2400,
+          "sha256": "956f1a85e4752cd19a1e3b1dabc8bb01db1ca6bad89c95c8fc1dbf4322d6ed52",
+          "captured": "2026-10-29"
+        },
+        {
+          "id": "actions",
+          "title": "Device Actions",
+          "file": "images/android-phone/actions.png",
+          "featured": false,
+          "width": 1080,
+          "height": 2400,
+          "sha256": "d7823721ca95fc024f84063932f1062adced2fb437cca23d9f35232b389ed2a3",
+          "captured": "2026-10-29"
+        },
+        {
+          "id": "details",
+          "title": "Connection info",
+          "file": "images/android-phone/details.png",
+          "captured": "2026-10-29",
+          "width": 1080,
+          "height": 2400,
+          "sha256": "a5e95541a17ea5a734ed4f276823f1b7960ee063f6176a49e574defe7d733976",
+          "featured": false
+        },
+        {
+          "id": "about",
+          "title": "About",
+          "file": "images/android-phone/about.png",
+          "captured": "2026-11-01",
+          "width": 1080,
+          "height": 2400,
+          "sha256": "250d9cb0bbfea64f570f05966cc0788b35f98ac3dffd63aec251d256c2065b40",
+          "featured": false
+        }
+      ]
+    },
+    {
+      "id": "android-tablet",
+      "label": "Android tablet",
+      "kind": "tablet",
+      "device": "Android API 37 emulator, 800 dp tablet-size configuration",
+      "screenshots": [
+        {
+          "id": "overview",
+          "title": "Overview",
+          "file": "images/android-tablet/overview.png",
+          "captured": "2026-10-29",
+          "width": 1600,
+          "height": 2560,
+          "sha256": "dc4b003186c2077761ba0ac490771fe89a8436bd8fdca75e79e1554778e97153",
+          "featured": false
+        },
+        {
+          "id": "radar",
+          "title": "Radar",
+          "file": "images/android-tablet/radar.png",
+          "captured": "2026-10-29",
+          "width": 1600,
+          "height": 2560,
+          "sha256": "c58d94426f426cbde15863b958b6c8953f2062c3fda19223512e7d1ae41b8382",
+          "featured": false
+        },
+        {
+          "id": "radar-info",
+          "title": "Radar info",
+          "file": "images/android-tablet/radar-info.png",
+          "captured": "2026-10-29",
+          "width": 1600,
+          "height": 2560,
+          "sha256": "0b8430a50c31e622081a2f70a624866013fbf824324d7f90d6335c0d08e76ae3",
+          "featured": false
+        },
+        {
+          "id": "metar",
+          "title": "METAR",
+          "file": "images/android-tablet/metar.png",
+          "captured": "2026-10-29",
+          "width": 1600,
+          "height": 2560,
+          "sha256": "4a11d8468ef0aedc2b1213ce73432605a5e0fbe65e14891e02eb8473cd83b634",
+          "featured": false
+        },
+        {
+          "id": "settings",
+          "title": "Settings",
+          "file": "images/android-tablet/settings.png",
+          "captured": "2026-10-29",
+          "width": 1600,
+          "height": 2560,
+          "sha256": "46802326314ba51c1055809b1791b3607e91ee33c66a5a84cf53c40f938e8bb3",
+          "featured": false
+        },
+        {
+          "id": "aircraft",
+          "title": "Aircraft",
+          "file": "images/android-tablet/aircraft.png",
+          "captured": "2026-10-29",
+          "width": 1600,
+          "height": 2560,
+          "sha256": "13889a07ed354ad87831ebbbc65b6d5854a40e9a98b916bd08c3aaabb12f4e08",
+          "featured": false
+        },
+        {
+          "id": "wifi",
+          "title": "Wi-Fi mode",
+          "file": "images/android-tablet/wifi.png",
+          "featured": false,
+          "width": 1600,
+          "height": 2560,
+          "sha256": "ed231905c2f739831e191ab0daca7c614eae7f44b6ee687af576730e574f4a78",
+          "captured": "2026-10-29"
+        },
+        {
+          "id": "actions",
+          "title": "Device Actions",
+          "file": "images/android-tablet/actions.png",
+          "featured": false,
+          "width": 1600,
+          "height": 2560,
+          "sha256": "84b82ad93e0010dde2aadbea61d24a471498ce22fc6ab59afad8a35cc4076183",
+          "captured": "2026-10-29"
+        },
+        {
+          "id": "details",
+          "title": "Connection info",
+          "file": "images/android-tablet/details.png",
+          "captured": "2026-10-29",
+          "width": 1600,
+          "height": 2560,
+          "sha256": "0d95e47eb0d07db6ecf5f9c0730bd2b39960f7429b94d11ccc740e92214f9652",
+          "featured": false
+        },
+        {
+          "id": "about",
+          "title": "About",
+          "file": "images/android-tablet/about.png",
+          "captured": "2026-11-01",
+          "width": 1600,
+          "height": 2560,
+          "sha256": "3394b99cfc41082bb1c9292634e08c9b1e96a5850f8f746242ae270f9c21a58b",
+          "featured": false
+        },
+        {
+          "id": "radar-landscape",
+          "title": "Radar landscape",
+          "file": "images/android-tablet/radar-landscape.png",
+          "captured": "2026-10-29",
+          "width": 2560,
+          "height": 1600,
+          "sha256": "b24fa8a26d5d34811f7096cb3b4f97a5789500d6fe4d4fbf034fcd25b75d42a2",
+          "featured": true
+        }
+      ]
+    },
+    {
+      "id": "watch",
+      "label": "Apple Watch",
+      "kind": "watch",
+      "device": "Apple Watch Series 12 (46 mm) simulator",
+      "screenshots": [
+        {
+          "id": "dashboard",
+          "title": "Overview",
+          "file": "images/watch/dashboard.png",
+          "captured": "2026-10-29",
+          "width": 416,
+          "height": 496,
+          "sha256": "f8fc1ebb6163c2df3acbca238e17bdcb485866299aed45b8a80225332644b21d",
+          "featured": true
+        },
+        {
+          "id": "aircraft",
+          "title": "Aircraft",
+          "file": "images/watch/aircraft.png",
+          "captured": "2026-10-29",
+          "width": 416,
+          "height": 496,
+          "sha256": "9c55685320e72fc08e3eb14c9add0ae08668d568344ced8ddf269a5bb64a5862",
+          "featured": false
+        },
+        {
+          "id": "settings",
+          "title": "Settings",
+          "file": "images/watch/settings.png",
+          "captured": "2026-10-29",
+          "width": 416,
+          "height": 496,
+          "sha256": "8683caaccc2d697992496be9dcad61f5b39aac168df65d16dbd178c5a5e1eacd",
+          "featured": false
+        },
+        {
+          "id": "diagnostics",
+          "title": "Diagnostics",
+          "file": "images/watch/diagnostics.png",
+          "captured": "2026-10-29",
+          "width": 416,
+          "height": 496,
+          "sha256": "f144a1c493a0953e77abc4afb5c3822127ddae644d3a2f510d93e4b98226e507",
+          "featured": false
+        }
+      ]
+    }
+  ]
+}
