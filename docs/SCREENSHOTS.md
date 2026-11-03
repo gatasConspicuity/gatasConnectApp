@@ -6,8 +6,6 @@ These are native simulator/emulator views using synthetic device, traffic, press
 
 [Interactive gallery on GitHub Pages](https://gatasConspicuity.github.io/gatasConnectApp/) (requires Pages deployment). The images below work directly on GitHub.
 
-See [Screenshot maintenance](SCREENSHOT_MAINTENANCE.md) to refresh images or publish the gallery.
-
 ## iPhone
 
 iPhone 18 Pro simulator.

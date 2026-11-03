@@ -8,7 +8,7 @@ import sys
 
 FIXED = {"README.md", "LICENSE", "NOTICE", "THIRD_PARTY_NOTICES.md",
          "public-assets.json", "tools/validate_public.py", "docs/SCREENSHOTS.md",
-         "docs/SCREENSHOT_MAINTENANCE.md", "docs/COMMUNITY_WELCOME.md",
+         "docs/COMMUNITY_WELCOME.md",
          ".github/ISSUE_TEMPLATE/bug_report.yml", ".github/ISSUE_TEMPLATE/config.yml"}
 WORKFLOWS = {".github/workflows/pages.yml", ".github/workflows/validate.yml"}
 SECRETS = re.compile(rb'-----BEGIN (?:RSA |EC |OPENSSH |ENCRYPTED )?PRIVATE KEY-----|gh[pousr]_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|AKIA[0-9A-Z]{16}')

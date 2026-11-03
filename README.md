@@ -52,7 +52,7 @@ GitHub Pages must be enabled for the interactive version. The repository gallery
 | :---: | :---: | :---: |
 | <a href="docs/SCREENSHOTS.md#ipad-mini"><img src="docs/gallery/images/ipad/radar-landscape.png" alt="Radar landscape" width="320"></a> | <a href="docs/SCREENSHOTS.md#ipad-13-inch-app-store"><img src="docs/gallery/images/ipad-13/radar-landscape.jpg" alt="Radar landscape" width="320"></a> | <a href="docs/SCREENSHOTS.md#android-tablet"><img src="docs/gallery/images/android-tablet/radar-landscape.png" alt="Radar landscape" width="320"></a> |
 
-Native simulator/emulator captures with synthetic demo data. See [how to update the gallery](docs/SCREENSHOT_MAINTENANCE.md).
+Native simulator/emulator captures with synthetic demo data.
 
 <!-- screenshots:end -->
 
