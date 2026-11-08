@@ -1,5 +1,7 @@
 # GATAS Connect
 
+[<img src="docs/images/Discord-Logo-Blurple.png" alt="Join the GATAS Discord community" height="45">](https://discord.com/invite/J6mXTcWndS)
+
 GATAS Connect connects your phone or tablet to a GATAS device over Bluetooth.
 It provides a traffic radar, METAR weather, GDL90 forwarding to compatible EFB
 apps and an Apple Watch companion.

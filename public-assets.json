@@ -7,7 +7,7 @@
     ".github/ISSUE_TEMPLATE/config.yml": "a3037addca6e7d5ae6a569855ea0415e08bbb5194d3bdd203565af52e1fd39d4",
     "LICENSE": "1b80bde4c1fa36db7f80dfb2c01cfd08ec9a9b4628efa60f7b69e3d7f07efc54",
     "NOTICE": "fc13e0d9091a8a043d4004e865837b388a808d68257efd5f30f6ca638bb7cfec",
-    "README.md": "e8836ac3cb7fc58b75f1c3581aac17f3f5ab9ebcf2d254c6984555fbbca1a0a5",
+    "README.md": "82b7d931c0353285b406a7db2359cf55b16a2a6e4319710c16a51a8ff019d9a5",
     "THIRD_PARTY_NOTICES.md": "cb89868461dd485157f3dc9e61ea843434c5e9bd20d02649427fc7d1cd1167c7",
     "docs/COMMUNITY_WELCOME.md": "4b9868131b36d262a6c83362bdd570653bb4b6eba46c95677f33e6930c2b15a6",
     "docs/SCREENSHOTS.md": "effda8eaf2d4785e11311d1eef93cb684372d1a9b30af90d1c6feba32857fb0a",
@@ -71,6 +71,7 @@
     "docs/gallery/index.html": "ba2bd14a2a544f5846f0cc13739b81711f8ac7b903853aa0595fe7c18c8d5e9b",
     "docs/gallery/manifest.json": "ce92918a7db2ae1b84d55799fbc8cba4cf3e0faa67bf4ac71559d567aeaac000",
     "docs/gallery/style.css": "fa31170041a7691989f4344aafae5d44da1dc7301371c25b6dc3e871cfc5c895",
+    "docs/images/Discord-Logo-Blurple.png": "5c693f5d436dda03be3da4be9f5d86453bc7f326821553e8983aa03946884e99",
     "licenses/README.md": "9c4c2e930569d92a0dc6c5152554ee451fb6e6bcb98db42f10e2809ec672c1b6",
     "licenses/catalog.json": "abfdd1f7d593ab3ab2a895c1b2149c3c1eb52e660e0befed70b4587a32245b2f",
     "licenses/texts/Adobe-DNG-Patent.txt": "bd958835863f42d8479457503a7ed716424d35b6e76ef76db06b72b109696ec4",
@@ -94,6 +95,6 @@
     "licenses/texts/libbacktrace-BSD.txt": "a989abf928f3559bf0425d966fdb0a561d11e535f3cc684034ab233524121f18",
     "licenses/texts/libjpeg-turbo-BSD.txt": "89a85658279e92834d3d8318d62f457f3f036df18459ca78041525da3f9bdc07",
     "licenses/texts/zlib.txt": "e1cfcc55c325b3f78cf55df9664abaa066e2271dffe8213347d9fccdfbac8f2c",
-    "tools/validate_public.py": "b5f21da857cb5cc1790f58d7626f74de445e875052bea788104f637533ccc45e"
+    "tools/validate_public.py": "69f7ef6ade2a0642082383dcf280b78ee746eb114ac425dd97fec19eb544d190"
   }
 }
